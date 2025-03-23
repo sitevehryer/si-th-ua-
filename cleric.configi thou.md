@@ -1,4 +1,10 @@
       cleric
+            ahead
+
+      direct
+            water
+      
+      cleric
             character 
       
       load
