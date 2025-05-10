@@ -39,3 +39,8 @@ cpu
    dark
 
 novel
+
+click
+      subtract
+
+subtract
